@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif; color:rgb(238, 234, 18)
+}
+
+nav a{
+   
+    padding: 1em;
+    text-decoration: none;
+    color: rgb(115, 255, 0);
+    font-size: 1.5em;
+    background-color: rgb(28, 25, 29);
+}
+
+nav a:hover{
+    background-color: rgb(238, 241, 10);
+
+}
+
+nav{
+    margin: 1em;
+}
+
+body{
+     background-image: url("/images/alien-ship.jpg");
+     }
+
+.aliens {
+    width: 95%;
+}
+
+.card-img-top {
+    width: 250px;
+}
+
+.register .box a {
+    color: limegreen;
+}
+
